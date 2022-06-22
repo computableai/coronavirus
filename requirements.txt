@@ -9,7 +9,7 @@ nbconvert==5.6.1
 nbdev==0.2.0
 nbformat==4.4.0
 nbinteract==0.2.5
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.1.2.30
 Pillow==6.2.1
 PyYAML==5.2
